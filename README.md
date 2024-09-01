@@ -1,8 +1,6 @@
-![Web Developer ] (https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
-
-
 ###### Hi there 👋, I'm Pronob Sarker
 #### Web Developer 
+![Web Developer ](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
 
 🌱 I’m currently learning MERN
 
@@ -19,3 +17,4 @@ Skills:  HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pronobsarker23&show_icons=true)  
 
+ 
