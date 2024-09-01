@@ -1,6 +1,8 @@
-###### Hi there 👋, I'm Pronob Sarker
-#### Web Developer 
 ![Web Developer ](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif)
+
+
+######Hi there 👋, I'm Pronob Sarker
+#### Web Developer 
 
 🌱 I’m currently learning MERN
 
